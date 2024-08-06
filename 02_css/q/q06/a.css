@@ -1,0 +1,214 @@
+#aria{
+    width: 1000px;
+    /* background-color: aliceblue; */
+    display: flex;
+    position: absolute;
+    left: 500px;
+}
+#left{
+    width: 800px;
+    height: 1200px;
+    /* background-color: blueviolet; */
+    
+}
+#right{
+    background-color: antiquewhite;
+    width: 200px;
+    height: 1200px;
+    /* display: flex; */
+}
+
+#x {
+    display:flex;
+    /* flex-direction: column; */
+    height: 100px;
+   
+}
+#y{
+    display: flex;
+    height: 50px;
+    background-image: url(https://upload3.inven.co.kr/upload/2021/05/25/bbs/i1554896604.png);
+    
+}
+#z{
+    display: flex;
+    height: 300px;
+    /* flex-direction: column; */
+}
+
+#a {
+    /* background-color: red; */
+    display: flex;
+    width: 100px;
+    height: 100px;
+}
+img{
+    width: 100px;
+}
+#banner{
+    width: 680px;
+    height: 90px;
+    padding: 3px;
+}
+#b {
+    /* background-color: orange; */
+    display: flex;
+    width: 700px;
+    height: 100px;
+}
+.c {
+    /* background-color: yellow; */
+    width: 80px;
+    padding: 10px;
+    height: 30px;
+}
+.m_btn{
+    background-color: skyblue;
+    width: 80px;
+    height: 30px;
+}
+.newsimg{
+    width: 205px;
+    height: 180px;
+    padding: 2px;
+}
+.inter{
+    width: 120px;
+    height: 70px;
+    background-color: green;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.intimg{
+    width: 90px;
+    height: 70px;
+    padding: 2px;
+}
+ 
+#i {
+    background-color: saddlebrown;
+    width: 170px;
+    height: 1000px;
+    flex-direction: column;
+}
+#j {
+    background-color: salmon;
+    width: 650px;
+    height: 1000px;
+    display: flex;
+    flex-direction: column;
+}
+#log_in{
+    width: 170px;
+    height: 150px;
+    background-color: azure;
+}
+#info{
+    width: 170px;
+    height: 100px;
+    background-color: burlywood;
+    color: black;
+}
+#itv{
+    width: 650px;
+    height: 80px;
+    display: inline-flex;
+    flex-direction: row;
+}
+#nsec{
+    display: inline-flex;
+    width: 300px;
+    
+}
+#cm{
+    width: 400px;
+    height: 500px;
+    /* left: 10px; */
+    top: 200px;
+    position: fixed;
+
+    /* background-color: black; */
+}
+#contents{
+    display: flex;
+    flex-direction: column;
+}
+.cont{
+    width: 170px;
+    height: 200px;
+    background-color: darkgreen;
+}
+h4{
+    border: 6px solid white;
+    color: burlywood;
+}
+li{
+    line-height: 200%;
+    list-style-type: none;
+    position: relative;
+    right: 20px;
+}
+a{
+    text-decoration-line: none;
+    /* text-decoration: black ; */
+    color: black;
+
+}
+a:hover{
+    text-decoration: underline;
+    color: black;
+}
+#colme{
+    width: 650px;
+    height: 200px;
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+}
+.textbox{
+    width: 325px;
+    height: 200px;
+    resize: none;
+
+}
+#logo{
+    height: 100px;
+}
+body{
+    background-image: url(https://upload3.inven.co.kr/upload/2021/06/03/bbs/i21311236280.jpg);
+    background-repeat: no-repeat;
+}
+/* #textarea{
+    width: 50%;
+    height: 10px
+}
+#pw{
+    width: 50%;
+    height: 10px
+} */
+#m_log{
+    width: 170px;
+    height: 70px;
+    background-color: crimson;
+    color: gold;
+    font-size: small;
+}
+.theme{
+    position: relative;
+    top: 10px;
+    text-align: center;
+    letter-spacing: 1px;
+    line-height: 0.25px;
+}
+h3{
+    text-align: center;
+}
+#cmimg{
+    width: 150px;
+    height: 400px;
+}
+
+
+
+
+

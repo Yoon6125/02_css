@@ -1,0 +1,37 @@
+#x {
+    display:flex;
+    /* flex-direction: column; */
+    height: 200px;
+   
+}
+#y{
+    display: flex;
+    height: 100px;
+    
+}
+#z{
+    display: flex;
+    height: 700px;
+}
+
+#a {
+    background-color: red;
+    width: 100px;
+}
+#b {
+    background-color: orange;
+    width: 400px;
+}
+#c {
+    background-color: yellow;
+    width: 500px;
+}
+#d {
+    background-color: green;    
+    width: 100px;
+}
+#e {
+    background-color: blue;
+    width: 400px;
+}
+

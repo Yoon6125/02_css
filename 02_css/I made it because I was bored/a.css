@@ -1,0 +1,52 @@
+body{
+    background-image: url(https://i.ytimg.com/vi/TpPwI_Lo0YY/mqdefault.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+h1{
+    border: 4px dashed gold;
+    color: azure;
+    text-align: center;
+}
+.main_use{
+    width: 500px;
+    height: 500px;
+    margin-left: 100px;
+}
+#content{
+    display: flex;
+    flex-direction: row;
+}
+#text{
+    width: 500px;
+    height: 300px;
+    position: relative;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-bottom: 0%;
+    margin-right: 0%;
+}
+#choose{
+    display: flex;
+    flex-direction: column;
+}
+.ch1{
+    position: relative;
+    left: 35%;
+
+}
+.button{
+    width: 150px;
+    position: relative;
+    /* left: 90%; */
+    justify-content: space-evenly;
+}
+#wrap{
+    width: 1200px;
+    position: relative;
+    left: 20%;
+}
+#choose_cont{
+    color: beige;
+}

@@ -1,0 +1,31 @@
+p{
+    color: pink;
+    
+}
+#cat{
+    border: 4px solid lightgreen;
+    /* border: 4px solid lightgreen; */
+    color: blue;
+}
+.dog{
+    background-color: black;
+    border: 4px solid lightgreen;
+}
+div{
+    color:black;
+    text-align: center;
+    font-size: 30px;
+    text-shadow: 4px 4px 2px red;
+
+    border: 10px solid blue;
+    border-style: dashed;
+}
+#race_d{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 300px;
+    /* border: 20px solid red; */
+    /* border-style: none; */
+    
+}
